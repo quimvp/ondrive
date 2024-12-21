@@ -1,0 +1,100 @@
+Algoritmo
+Inteligencia artificial
+Big data
+Blockchain
+Ciberseguridad
+Computadora
+Conectividad
+Criptografía
+Datos
+Dispositivo
+Dominio
+Electrónica
+Emulador
+Encriptación
+Firewall
+Firmware
+Hardware
+Hosting
+Innovación
+Interfaz
+Internet
+IoT (Internet de las Cosas)
+Lenguaje de programación
+Machine learning
+Mantenimiento
+Microchip
+Microscopio
+Módem
+Nanotecnología
+Navegador
+Nube (Cloud)
+Ofimática
+Open source (Código abierto)
+Operador
+Procesador
+Programación
+Protocolo
+RAM (Memoria)
+Realidad aumentada
+Realidad virtual
+Red
+Router
+Satélite
+Sensor
+Servidor
+Sistema operativo
+Software
+Streaming
+Supercomputadora
+Tecnología
+Telecomunicación
+Teletrabajo
+Unidad de disco
+USB
+UX (Experiencia de usuario)
+VR (Realidad virtual)
+Wearable
+Web
+Wi-Fi
+Algoritmo genético
+Analítica
+API
+Arquitectura de red
+Automatización
+Backup (Copia de seguridad)
+Bit
+Byte
+Caching
+Cloud computing
+Compilador
+Conmutador
+Criptomoneda
+Cyber ataque
+Deep learning
+DevOps
+DNS
+Edge computing
+FPGA
+Framework
+Gamificación
+GitHub
+GPU
+Hacker
+Hadoop
+Hosting
+HTTP/HTTPS
+Kernel
+Latencia
+Malware
+Metadatos
+Microservicios
+Multitarea
+Node.js
+OpenGL
+Outsourcing
+Patch (Parche)
+Phishing
+Pixel
+QA (Control de calidad)
+Quántica (Computación cuántica)
