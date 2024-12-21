@@ -1,0 +1,89 @@
+¡Claro! Aquí tienes algunos comandos básicos de Git que te serán muy útiles:
+
+1. **Configuración inicial**:
+   ```bash
+   git config --global user.name "Tu Nombre"
+   git config --global user.email "tuemail@ejemplo.com"
+   ```
+
+2. **Crear un nuevo repositorio**:
+   ```bash
+   git init
+   ```
+
+3. **Clonar un repositorio existente**:
+   ```bash
+   git clone https://github.com/usuario/repo.git
+   ```
+
+4. **Ver el estado de los archivos**:
+   ```bash
+   git status
+   ```
+
+5. **Añadir archivos al área de preparación (staging area)**:
+   ```bash
+   git add nombre_del_archivo
+   ```
+
+   Para añadir todos los archivos:
+   ```bash
+   git add .
+   ```
+
+6. **Hacer un commit**:
+   ```bash
+   git commit -m "Mensaje del commit"
+   ```
+
+7. **Ver el historial de commits**:
+   ```bash
+   git log
+   ```
+
+8. **Ver las diferencias entre los archivos modificados**:
+   ```bash
+   git diff
+   ```
+
+9. **Subir cambios al repositorio remoto**:
+   ```bash
+   git push origin nombre_de_la_rama
+   ```
+
+10. **Actualizar el repositorio local con cambios del remoto**:
+    ```bash
+    git pull
+    ```
+
+11. **Crear una nueva rama**:
+    ```bash
+    git branch nombre_de_la_rama
+    ```
+
+12. **Cambiar de rama**:
+    ```bash
+    git checkout nombre_de_la_rama
+    ```
+
+13. **Fusionar una rama en la rama actual**:
+    ```bash
+    git merge nombre_de_la_rama
+    ```
+
+
+El parámetro `-u` (o `--set-upstream`) del comando `git push` se utiliza para establecer una conexión entre la rama local y la rama remota, lo que facilita el trabajo futuro con esa rama. Cuando usas `-u`, Git configura la rama local para rastrear la rama remota a la que estás haciendo push.
+
+Por ejemplo, el comando:
+
+```bash
+git push -u origin nombre_de_la_rama
+```
+
+hace dos cosas:
+1. **Sube** (`push`) los cambios de la rama local `nombre_de_la_rama` al repositorio remoto `origin`.
+2. **Establece** (`set-upstream`) la rama remota `origin/nombre_de_la_rama` como la rama predeterminada para futuras operaciones `push` y `pull`.
+
+Esto significa que la próxima vez que desees hacer un `push` o `pull` en esta rama, solo necesitarás usar `git push` o `git pull` sin especificar la rama y el repositorio remotos.
+
+Es una forma conveniente de asegurarte de que las ramas locales y remotas estén sincronizadas sin tener que repetir el comando completo cada vez.
